@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: */cadastro/*
+Disallow: */api/*
+Disallow: */privacidade/*
+
+Sitemap: https://parceiros.ifood.com.br/sitemap.xml
